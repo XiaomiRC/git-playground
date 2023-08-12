@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi This is Radhe to test conflict
+
+This is the second Radhe.txt to created from branch1 to test conflict
+
